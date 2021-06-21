@@ -3,12 +3,22 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-21T11:31:46.227838892+08:00"
+    created: "2021-06-21T15:26:49.409087655+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 16431702a6c376c832c64e1de65e09d6bd5113b3ee1b8e88e64ec719db813ab6
+    name: helloworld
+    type: application
+    urls:
+    - https://shanhaibogithub.github.io/helm-chart/helloworld-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-21T15:26:49.408654389+08:00"
     description: A Helm chart for Kubernetes
     digest: 5b5bc3173f3730e05308b6bf3494b1efa5e4184ec4225f7835d456b189f6173e
     name: helloworld
     type: application
     urls:
-    - https://git.youlai.cn/op/helm-chart/helloworld-0.1.0.tgz
+    - https://shanhaibogithub.github.io/helm-chart/helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-21T11:31:46.227213911+08:00"
+generated: "2021-06-21T15:26:49.408025821+08:00"
